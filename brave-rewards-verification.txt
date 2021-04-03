@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: piroz.github.io
+Token: 9fc48fbc60663dc87935b2117c81c8efa618d2d807398839ef500ffe321de0d2
