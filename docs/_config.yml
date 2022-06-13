@@ -1,3 +1,4 @@
 include: [".well-known"]
 
 theme: jekyll-theme-minimal
+title: hiroshi.mraz.ml
