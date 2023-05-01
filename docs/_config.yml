@@ -2,3 +2,4 @@ include: [".well-known"]
 
 theme: jekyll-theme-minimal
 title: hiroshi.mraz.ml
+google_analytics: G-TWSJS58BFB
