@@ -43,17 +43,10 @@ body {
 }
 
 .avatar {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
   width: 80px;
   height: 80px;
   border-radius: 50%;
-  background: linear-gradient(135deg, #6366f1 0%, #8b5cf6 100%);
-  color: #fff;
-  font-size: 2rem;
-  font-weight: 700;
-  letter-spacing: -0.05em;
+  object-fit: cover;
   box-shadow: 0 4px 24px rgba(99, 102, 241, 0.35);
   margin-bottom: 20px;
 }
